@@ -1,0 +1,16 @@
+{
+	"arrowParens": "avoid",
+	"bracketSpacing": true,
+	"endOfLine": "auto",
+	"jsxBracketSameLine": false,
+	"printWidth": 120,
+	"singleQuote": true,
+	"tabWidth": 2,
+	"trailingComma": "all",
+	"react/jsx-filename-extension": [
+		1,
+		{
+			"allow": "as-needed"
+		}
+	]
+}
