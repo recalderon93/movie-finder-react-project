@@ -1,0 +1,112 @@
+[
+	{
+		"tconst": "tt0086250",
+		"titleType": "movie",
+		"primaryTitle": "Scarface",
+		"originalTitle": "Scarface",
+		"isAdult": "0",
+		"startYear": "1983",
+		"endYear": "\\N",
+		"runtimeMinutes": "170",
+		"genres": "Crime,Drama"
+	},
+	{
+		"tconst": "tt0068646",
+		"titleType": "movie",
+		"primaryTitle": "The Godfather",
+		"originalTitle": "The Godfather",
+		"isAdult": "0",
+		"startYear": "1972",
+		"endYear": "\\N",
+		"runtimeMinutes": "175",
+		"genres": "Crime,Drama"
+	},
+	{
+		"tconst": "tt0071562",
+		"titleType": "movie",
+		"primaryTitle": "The Godfather: Part II",
+		"originalTitle": "The Godfather: Part II",
+		"isAdult": "0",
+		"startYear": "1974",
+		"endYear": "\\N",
+		"runtimeMinutes": "202",
+		"genres": "Crime,Drama"
+	},
+	{
+		"tconst": "tt0120815",
+		"titleType": "movie",
+		"primaryTitle": "Saving Private Ryan",
+		"originalTitle": "Saving Private Ryan",
+		"isAdult": "0",
+		"startYear": "1998",
+		"endYear": "\\N",
+		"runtimeMinutes": "169",
+		"genres": "Drama,War"
+	},
+	{
+		"tconst": "tt0076759",
+		"titleType": "movie",
+		"primaryTitle": "Star Wars: Episode IV - A New Hope",
+		"originalTitle": "Star Wars",
+		"isAdult": "0",
+		"startYear": "1977",
+		"endYear": "\\N",
+		"runtimeMinutes": "121",
+		"genres": "Action,Adventure,Fantasy"
+	},
+	{
+		"tconst": "tt0080684",
+		"titleType": "movie",
+		"primaryTitle": "Star Wars: Episode V - The Empire Strikes Back",
+		"originalTitle": "Star Wars: Episode V - The Empire Strikes Back",
+		"isAdult": "0",
+		"startYear": "1980",
+		"endYear": "\\N",
+		"runtimeMinutes": "124",
+		"genres": "Action,Adventure,Fantasy"
+	},
+	{
+		"tconst": "tt0086190",
+		"titleType": "movie",
+		"primaryTitle": "Star Wars: Episode VI - Return of the Jedi",
+		"originalTitle": "Star Wars: Episode VI - Return of the Jedi",
+		"isAdult": "0",
+		"startYear": "1983",
+		"endYear": "\\N",
+		"runtimeMinutes": "131",
+		"genres": "Action,Adventure,Fantasy"
+	},
+	{
+		"tconst": "tt0120915",
+		"titleType": "movie",
+		"primaryTitle": "Star Wars: Episode I - The Phantom Menace",
+		"originalTitle": "Star Wars: Episode I - The Phantom Menace",
+		"isAdult": "0",
+		"startYear": "1999",
+		"endYear": "\\N",
+		"runtimeMinutes": "136",
+		"genres": "Action,Adventure,Fantasy"
+	},
+	{
+		"tconst": "tt0121765",
+		"titleType": "movie",
+		"primaryTitle": "Star Wars: Episode II - Attack of the Clones",
+		"originalTitle": "Star Wars: Episode II - Attack of the Clones",
+		"isAdult": "0",
+		"startYear": "2002",
+		"endYear": "\\N",
+		"runtimeMinutes": "142",
+		"genres": "Action,Adventure,Fantasy"
+	},
+	{
+		"tconst": "tt0289043",
+		"titleType": "movie",
+		"primaryTitle": "28 Days Later...",
+		"originalTitle": "28 Days Later...",
+		"isAdult": "0",
+		"startYear": "2002",
+		"endYear": "\\N",
+		"runtimeMinutes": "113",
+		"genres": "Drama,Horror,Sci-Fi"
+	}
+]

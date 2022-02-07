@@ -1,0 +1,1190 @@
+{
+	"nm0000008": {
+		"nconst": "nm0000008",
+		"primaryName": "Marlon Brando",
+		"birthYear": "1924",
+		"deathYear": "2004",
+		"primaryProfession": [
+			"actor",
+			"soundtrack",
+			"director"
+		],
+		"knownForTitle": [
+			"tt0068646",
+			"tt0070849",
+			"tt0078788",
+			"tt0047296"
+		]
+	},
+	"nm0000199": {
+		"nconst": "nm0000199",
+		"primaryName": "Al Pacino",
+		"birthYear": "1940",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actor",
+			"producer",
+			"soundtrack"
+		],
+		"knownForTitle": [
+			"tt0070666",
+			"tt0099422",
+			"tt0072890",
+			"tt0068646"
+		]
+	},
+	"nm0000473": {
+		"nconst": "nm0000473",
+		"primaryName": "Diane Keaton",
+		"birthYear": "1946",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actress",
+			"producer",
+			"soundtrack"
+		],
+		"knownForTitle": [
+			"tt0337741",
+			"tt0075686",
+			"tt0082979",
+			"tt0073312"
+		]
+	},
+	"nm0000338": {
+		"nconst": "nm0000338",
+		"primaryName": "Francis Ford Coppola",
+		"birthYear": "1939",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"producer",
+			"director",
+			"writer"
+		],
+		"knownForTitle": [
+			"tt0071562",
+			"tt0068646",
+			"tt0078788",
+			"tt0071360"
+		]
+	},
+	"nm0000065": {
+		"nconst": "nm0000065",
+		"primaryName": "Nino Rota",
+		"birthYear": "1911",
+		"deathYear": "1979",
+		"primaryProfession": [
+			"composer",
+			"soundtrack",
+			"music_department"
+		],
+		"knownForTitle": [
+			"tt0056801",
+			"tt0071562",
+			"tt0068646",
+			"tt0063518"
+		]
+	},
+	"nm0000134": {
+		"nconst": "nm0000134",
+		"primaryName": "Robert De Niro",
+		"birthYear": "1943",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actor",
+			"producer",
+			"soundtrack"
+		],
+		"knownForTitle": [
+			"tt0075314",
+			"tt0081398",
+			"tt0101540",
+			"tt0077416"
+		]
+	},
+	"nm0000380": {
+		"nconst": "nm0000380",
+		"primaryName": "Robert Duvall",
+		"birthYear": "1931",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actor",
+			"producer",
+			"soundtrack"
+		],
+		"knownForTitle": [
+			"tt0068646",
+			"tt0316356",
+			"tt0118632",
+			"tt0078788"
+		]
+	},
+	"nm0000434": {
+		"nconst": "nm0000434",
+		"primaryName": "Mark Hamill",
+		"birthYear": "1951",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actor",
+			"soundtrack",
+			"producer"
+		],
+		"knownForTitle": [
+			"tt2527336",
+			"tt0076759",
+			"tt0080684",
+			"tt0086190"
+		]
+	},
+	"nm0000402": {
+		"nconst": "nm0000402",
+		"primaryName": "Carrie Fisher",
+		"birthYear": "1956",
+		"deathYear": "2016",
+		"primaryProfession": [
+			"actress",
+			"miscellaneous",
+			"soundtrack"
+		],
+		"knownForTitle": [
+			"tt0076759",
+			"tt2527336",
+			"tt0086190",
+			"tt0080684"
+		]
+	},
+	"nm0000148": {
+		"nconst": "nm0000148",
+		"primaryName": "Harrison Ford",
+		"birthYear": "1942",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actor",
+			"writer",
+			"producer"
+		],
+		"knownForTitle": [
+			"tt0082971",
+			"tt0118571",
+			"tt0076759",
+			"tt0106977"
+		]
+	},
+	"nm0000027": {
+		"nconst": "nm0000027",
+		"primaryName": "Alec Guinness",
+		"birthYear": "1914",
+		"deathYear": "2000",
+		"primaryProfession": [
+			"actor",
+			"soundtrack",
+			"writer"
+		],
+		"knownForTitle": [
+			"tt0051739",
+			"tt0050212",
+			"tt0041546",
+			"tt0076759"
+		]
+	},
+	"nm0000184": {
+		"nconst": "nm0000184",
+		"primaryName": "George Lucas",
+		"birthYear": "1944",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"writer",
+			"producer",
+			"director"
+		],
+		"knownForTitle": [
+			"tt0066434",
+			"tt0069704",
+			"tt0076759",
+			"tt0082971"
+		]
+	},
+	"nm0000201": {
+		"nconst": "nm0000201",
+		"primaryName": "Michelle Pfeiffer",
+		"birthYear": "1958",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actress",
+			"soundtrack",
+			"producer"
+		],
+		"knownForTitle": [
+			"tt0097322",
+			"tt0117247",
+			"tt0427327",
+			"tt0161081"
+		]
+	},
+	"nm0000361": {
+		"nconst": "nm0000361",
+		"primaryName": "Brian De Palma",
+		"birthYear": "1940",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"director",
+			"writer",
+			"producer"
+		],
+		"knownForTitle": [
+			"tt0280665",
+			"tt0080661",
+			"tt0086984",
+			"tt0094226"
+		]
+	},
+	"nm0000231": {
+		"nconst": "nm0000231",
+		"primaryName": "Oliver Stone",
+		"birthYear": "1946",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"producer",
+			"director",
+			"writer"
+		],
+		"knownForTitle": [
+			"tt0096969",
+			"tt0102138",
+			"tt0110632",
+			"tt0091763"
+		]
+	},
+	"nm0000158": {
+		"nconst": "nm0000158",
+		"primaryName": "Tom Hanks",
+		"birthYear": "1956",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"producer",
+			"actor",
+			"soundtrack"
+		],
+		"knownForTitle": [
+			"tt0162222",
+			"tt0094737",
+			"tt0109830",
+			"tt0112384"
+		]
+	},
+	"nm0000354": {
+		"nconst": "nm0000354",
+		"primaryName": "Matt Damon",
+		"birthYear": "1970",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"producer",
+			"actor",
+			"soundtrack"
+		],
+		"knownForTitle": [
+			"tt0407887",
+			"tt0134119",
+			"tt0119217",
+			"tt3659388"
+		]
+	},
+	"nm0000229": {
+		"nconst": "nm0000229",
+		"primaryName": "Steven Spielberg",
+		"birthYear": "1946",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"producer",
+			"writer",
+			"director"
+		],
+		"knownForTitle": [
+			"tt0083866",
+			"tt0082971",
+			"tt0108052",
+			"tt0120815"
+		]
+	},
+	"nm0000191": {
+		"nconst": "nm0000191",
+		"primaryName": "Ewan McGregor",
+		"birthYear": "1971",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actor",
+			"writer",
+			"producer"
+		],
+		"knownForTitle": [
+			"tt0117951",
+			"tt2763304",
+			"tt0203009",
+			"tt1322269"
+		]
+	},
+	"nm0000553": {
+		"nconst": "nm0000553",
+		"primaryName": "Liam Neeson",
+		"birthYear": "1952",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actor",
+			"soundtrack",
+			"producer"
+		],
+		"knownForTitle": [
+			"tt0362269",
+			"tt0108052",
+			"tt0429493",
+			"tt1601913"
+		]
+	},
+	"nm0000204": {
+		"nconst": "nm0000204",
+		"primaryName": "Natalie Portman",
+		"birthYear": "1981",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actress",
+			"producer",
+			"soundtrack"
+		],
+		"knownForTitle": [
+			"tt0947798",
+			"tt0110413",
+			"tt0376541",
+			"tt0434409"
+		]
+	},
+	"nm0000489": {
+		"nconst": "nm0000489",
+		"primaryName": "Christopher Lee",
+		"birthYear": "1922",
+		"deathYear": "2015",
+		"primaryProfession": [
+			"actor",
+			"soundtrack",
+			"producer"
+		],
+		"knownForTitle": [
+			"tt0070917",
+			"tt0120737",
+			"tt0167261",
+			"tt0121765"
+		]
+	},
+	"nm0001001": {
+		"nconst": "nm0001001",
+		"primaryName": "James Caan",
+		"birthYear": "1940",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actor",
+			"soundtrack",
+			"director"
+		],
+		"knownForTitle": [
+			"tt0100157",
+			"tt0073631",
+			"tt0068646",
+			"tt0083190"
+		]
+	},
+	"nm0000874": {
+		"nconst": "nm0000874",
+		"primaryName": "Steven Bauer",
+		"birthYear": "1956",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actor",
+			"producer",
+			"soundtrack"
+		],
+		"knownForTitle": [
+			"tt2249007",
+			"tt0086250",
+			"tt0117381",
+			"tt0181865"
+		]
+	},
+	"nm0001328": {
+		"nconst": "nm0001328",
+		"primaryName": "Howard Hawks",
+		"birthYear": "1896",
+		"deathYear": "1977",
+		"primaryProfession": [
+			"director",
+			"producer",
+			"writer"
+		],
+		"knownForTitle": [
+			"tt0056059",
+			"tt0053221",
+			"tt0040724",
+			"tt0061619"
+		]
+	},
+	"nm0001172": {
+		"nconst": "nm0001172",
+		"primaryName": "Christopher Eccleston",
+		"birthYear": "1964",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actor"
+		],
+		"knownForTitle": [
+			"tt0111149",
+			"tt1981115",
+			"tt0289043",
+			"tt0436992"
+		]
+	},
+	"nm0000965": {
+		"nconst": "nm0000965",
+		"primaryName": "Danny Boyle",
+		"birthYear": "1956",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"director",
+			"producer",
+			"writer"
+		],
+		"knownForTitle": [
+			"tt1542344",
+			"tt1010048",
+			"tt0111149",
+			"tt0289043"
+		]
+	},
+	"nm0001850": {
+		"nconst": "nm0001850",
+		"primaryName": "Billy Dee Williams",
+		"birthYear": "1937",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actor",
+			"soundtrack",
+			"writer"
+		],
+		"knownForTitle": [
+			"tt0086190",
+			"tt4116284",
+			"tt2527338",
+			"tt0080684"
+		]
+	},
+	"nm0001410": {
+		"nconst": "nm0001410",
+		"primaryName": "Lawrence Kasdan",
+		"birthYear": "1949",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"writer",
+			"producer",
+			"director"
+		],
+		"knownForTitle": [
+			"tt0090022",
+			"tt0082971",
+			"tt0085244",
+			"tt0111756"
+		]
+	},
+	"nm0001512": {
+		"nconst": "nm0001512",
+		"primaryName": "Mary Elizabeth Mastrantonio",
+		"birthYear": "1958",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actress",
+			"soundtrack"
+		],
+		"knownForTitle": [
+			"tt0164085",
+			"tt0102798",
+			"tt0096754",
+			"tt0177971"
+		]
+	},
+	"nm0001744": {
+		"nconst": "nm0001744",
+		"primaryName": "Tom Sizemore",
+		"birthYear": "1961",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actor",
+			"producer",
+			"writer"
+		],
+		"knownForTitle": [
+			"tt0199753",
+			"tt0265086",
+			"tt0120815",
+			"tt0120004"
+		]
+	},
+	"nm0002354": {
+		"nconst": "nm0002354",
+		"primaryName": "John Williams",
+		"birthYear": "1932",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"music_department",
+			"soundtrack",
+			"composer"
+		],
+		"knownForTitle": [
+			"tt2527336",
+			"tt0080684",
+			"tt0076759",
+			"tt0078346"
+		]
+	},
+	"nm0005157": {
+		"nconst": "nm0005157",
+		"primaryName": "Jake Lloyd",
+		"birthYear": "1989",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actor",
+			"miscellaneous"
+		],
+		"knownForTitle": [
+			"tt0120915",
+			"tt0200172",
+			"tt0116705",
+			"tt0206113"
+		]
+	},
+	"nm0005897": {
+		"nconst": "nm0005897",
+		"primaryName": "David Tattersall",
+		"birthYear": "1960",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"cinematographer",
+			"camera_department",
+			"composer"
+		],
+		"knownForTitle": [
+			"tt0120915",
+			"tt0120157",
+			"tt0120689",
+			"tt0246460"
+		]
+	},
+	"nm0102824": {
+		"nconst": "nm0102824",
+		"primaryName": "Leigh Brackett",
+		"birthYear": "1915",
+		"deathYear": "1978",
+		"primaryProfession": [
+			"writer"
+		],
+		"knownForTitle": [
+			"tt0061619",
+			"tt0070334",
+			"tt0038355",
+			"tt0080684"
+		]
+	},
+	"nm0106840": {
+		"nconst": "nm0106840",
+		"primaryName": "Martin Bregman",
+		"birthYear": "1926",
+		"deathYear": "2018",
+		"primaryProfession": [
+			"producer",
+			"actor",
+			"executive"
+		],
+		"knownForTitle": [
+			"tt0072890",
+			"tt0180052",
+			"tt0098273",
+			"tt0070666"
+		]
+	},
+	"nm0117290": {
+		"nconst": "nm0117290",
+		"primaryName": "Ian Bryce",
+		"birthYear": "\\N",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"producer",
+			"assistant_director",
+			"production_manager"
+		],
+		"knownForTitle": [
+			"tt0181875",
+			"tt0111257",
+			"tt0120815",
+			"tt0145487"
+		]
+	},
+	"nm0122653": {
+		"nconst": "nm0122653",
+		"primaryName": "Edward Burns",
+		"birthYear": "1968",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actor",
+			"writer",
+			"producer"
+		],
+		"knownForTitle": [
+			"tt0120815",
+			"tt0117628",
+			"tt0112585",
+			"tt0491109"
+		]
+	},
+	"nm0123785": {
+		"nconst": "nm0123785",
+		"primaryName": "Ben Burtt",
+		"birthYear": "1948",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"sound_department",
+			"editor",
+			"miscellaneous"
+		],
+		"knownForTitle": [
+			"tt0076759",
+			"tt0120915",
+			"tt0910970",
+			"tt1650062"
+		]
+	},
+	"nm0156816": {
+		"nconst": "nm0156816",
+		"primaryName": "Richard Chew",
+		"birthYear": "1940",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"editor",
+			"editorial_department",
+			"cinematographer"
+		],
+		"knownForTitle": [
+			"tt0071360",
+			"tt0184894",
+			"tt0076759",
+			"tt0073486"
+		]
+	},
+	"nm0159789": {
+		"nconst": "nm0159789",
+		"primaryName": "Hayden Christensen",
+		"birthYear": "1981",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actor",
+			"producer",
+			"executive"
+		],
+		"knownForTitle": [
+			"tt0121766",
+			"tt0121765",
+			"tt0323944",
+			"tt0489099"
+		]
+	},
+	"nm0230045": {
+		"nconst": "nm0230045",
+		"primaryName": "Anthony Dod Mantle",
+		"birthYear": "1955",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"cinematographer",
+			"camera_department",
+			"location_management"
+		],
+		"knownForTitle": [
+			"tt0455590",
+			"tt0289043",
+			"tt0870984",
+			"tt1010048"
+		]
+	},
+	"nm0307497": {
+		"nconst": "nm0307497",
+		"primaryName": "Alex Garland",
+		"birthYear": "1970",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"writer",
+			"producer",
+			"director"
+		],
+		"knownForTitle": [
+			"tt0289043",
+			"tt0470752",
+			"tt2798920",
+			"tt1334260"
+		]
+	},
+	"nm0318639": {
+		"nconst": "nm0318639",
+		"primaryName": "Chris Gill",
+		"birthYear": "\\N",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"editor",
+			"editorial_department",
+			"assistant_director"
+		],
+		"knownForTitle": [
+			"tt1412386",
+			"tt6212478",
+			"tt0448134",
+			"tt1540133"
+		]
+	},
+	"nm0330428": {
+		"nconst": "nm0330428",
+		"primaryName": "Mark Gordon",
+		"birthYear": "1956",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"producer",
+			"director",
+			"actor"
+		],
+		"knownForTitle": [
+			"tt0319262",
+			"tt0120815",
+			"tt0790712",
+			"tt0945513"
+		]
+	},
+	"nm0355054": {
+		"nconst": "nm0355054",
+		"primaryName": "Jonathan Hales",
+		"birthYear": "1937",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"writer",
+			"actor"
+		],
+		"knownForTitle": [
+			"tt0088503",
+			"tt0103586",
+			"tt0277296",
+			"tt0121765"
+		]
+	},
+	"nm0365140": {
+		"nconst": "nm0365140",
+		"primaryName": "Naomie Harris",
+		"birthYear": "1976",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actress"
+		],
+		"knownForTitle": [
+			"tt0289043",
+			"tt4682786",
+			"tt4975722",
+			"tt1074638"
+		]
+	},
+	"nm0372942": {
+		"nconst": "nm0372942",
+		"primaryName": "Ben Hecht",
+		"birthYear": "1894",
+		"deathYear": "1964",
+		"primaryProfession": [
+			"writer",
+			"actor",
+			"producer"
+		],
+		"knownForTitle": [
+			"tt0038787",
+			"tt0023427",
+			"tt0032209",
+			"tt0026970"
+		]
+	},
+	"nm0443599": {
+		"nconst": "nm0443599",
+		"primaryName": "Howard G. Kazanjian",
+		"birthYear": "1942",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"producer",
+			"assistant_director",
+			"miscellaneous"
+		],
+		"knownForTitle": [
+			"tt0086190",
+			"tt0100514",
+			"tt0106697",
+			"tt0082971"
+		]
+	},
+	"nm0449984": {
+		"nconst": "nm0449984",
+		"primaryName": "Irvin Kershner",
+		"birthYear": "1923",
+		"deathYear": "2010",
+		"primaryProfession": [
+			"director",
+			"cinematographer",
+			"actor"
+		],
+		"knownForTitle": [
+			"tt0080684",
+			"tt0086006",
+			"tt0100502",
+			"tt0110725"
+		]
+	},
+	"nm0476030": {
+		"nconst": "nm0476030",
+		"primaryName": "Gary Kurtz",
+		"birthYear": "1940",
+		"deathYear": "2018",
+		"primaryProfession": [
+			"producer",
+			"assistant_director",
+			"production_manager"
+		],
+		"knownForTitle": [
+			"tt3651448",
+			"tt0083791",
+			"tt0076759",
+			"tt0069704"
+		]
+	},
+	"nm0506013": {
+		"nconst": "nm0506013",
+		"primaryName": "Gary Levinsohn",
+		"birthYear": "1959",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"producer"
+		],
+		"knownForTitle": [
+			"tt0114746",
+			"tt0119395",
+			"tt0120815",
+			"tt0120458"
+		]
+	},
+	"nm0531602": {
+		"nconst": "nm0531602",
+		"primaryName": "Andrew Macdonald",
+		"birthYear": "1966",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"producer",
+			"actor",
+			"executive"
+		],
+		"knownForTitle": [
+			"tt2763304",
+			"tt0117951",
+			"tt0111149",
+			"tt0470752"
+		]
+	},
+	"nm0539794": {
+		"nconst": "nm0539794",
+		"primaryName": "Barry Malkin",
+		"birthYear": "1938",
+		"deathYear": "2019",
+		"primaryProfession": [
+			"editor",
+			"editorial_department"
+		],
+		"knownForTitle": [
+			"tt0094737",
+			"tt0071562",
+			"tt0078788",
+			"tt0099674"
+		]
+	},
+	"nm0548943": {
+		"nconst": "nm0548943",
+		"primaryName": "Richard Marks",
+		"birthYear": "1943",
+		"deathYear": "2018",
+		"primaryProfession": [
+			"editor",
+			"editorial_department",
+			"producer"
+		],
+		"knownForTitle": [
+			"tt0099422",
+			"tt0119822",
+			"tt0092699",
+			"tt0078788"
+		]
+	},
+	"nm0549658": {
+		"nconst": "nm0549658",
+		"primaryName": "Richard Marquand",
+		"birthYear": "1937",
+		"deathYear": "1987",
+		"primaryProfession": [
+			"director",
+			"producer",
+			"writer"
+		],
+		"knownForTitle": [
+			"tt0089360",
+			"tt1043199",
+			"tt0107711",
+			"tt0086190"
+		]
+	},
+	"nm0564768": {
+		"nconst": "nm0564768",
+		"primaryName": "Rick McCallum",
+		"birthYear": "1950",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"producer",
+			"production_manager",
+			"actor"
+		],
+		"knownForTitle": [
+			"tt0120915",
+			"tt0086190",
+			"tt0080684",
+			"tt0076759"
+		]
+	},
+	"nm0614165": {
+		"nconst": "nm0614165",
+		"primaryName": "Cillian Murphy",
+		"birthYear": "1976",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actor",
+			"producer",
+			"soundtrack"
+		],
+		"knownForTitle": [
+			"tt0468569",
+			"tt1375666",
+			"tt0448134",
+			"tt0289043"
+		]
+	},
+	"nm0614373": {
+		"nconst": "nm0614373",
+		"primaryName": "John Murphy",
+		"birthYear": "1965",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"composer",
+			"soundtrack",
+			"music_department"
+		],
+		"knownForTitle": [
+			"tt1877832",
+			"tt6334354",
+			"tt0120735",
+			"tt0448134"
+		]
+	},
+	"nm0650038": {
+		"nconst": "nm0650038",
+		"primaryName": "Lorne Orleans",
+		"birthYear": "\\N",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"producer",
+			"production_manager",
+			"miscellaneous"
+		],
+		"knownForTitle": [
+			"tt0434409",
+			"tt0121765",
+			"tt0316654",
+			"tt0418279"
+		]
+	},
+	"nm0658099": {
+		"nconst": "nm0658099",
+		"primaryName": "Alex Palmer",
+		"birthYear": "1973",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"actor",
+			"sound_department"
+		],
+		"knownForTitle": [
+			"tt0311113",
+			"tt1020530",
+			"tt0289043",
+			"tt0330373"
+		]
+	},
+	"nm0701374": {
+		"nconst": "nm0701374",
+		"primaryName": "Mario Puzo",
+		"birthYear": "1920",
+		"deathYear": "1999",
+		"primaryProfession": [
+			"writer"
+		],
+		"knownForTitle": [
+			"tt0078346",
+			"tt0068646",
+			"tt0071562",
+			"tt0099674"
+		]
+	},
+	"nm0722000": {
+		"nconst": "nm0722000",
+		"primaryName": "William Reynolds",
+		"birthYear": "1910",
+		"deathYear": "1997",
+		"primaryProfession": [
+			"editor",
+			"editorial_department",
+			"producer"
+		],
+		"knownForTitle": [
+			"tt0064418",
+			"tt0059742",
+			"tt0070735",
+			"tt0068646"
+		]
+	},
+	"nm0734441": {
+		"nconst": "nm0734441",
+		"primaryName": "Robert Rodat",
+		"birthYear": "1953",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"writer",
+			"producer",
+			"director"
+		],
+		"knownForTitle": [
+			"tt1462059",
+			"tt1981115",
+			"tt0187393",
+			"tt0120815"
+		]
+	},
+	"nm0748665": {
+		"nconst": "nm0748665",
+		"primaryName": "Albert S. Ruddy",
+		"birthYear": "1930",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"writer",
+			"producer",
+			"miscellaneous"
+		],
+		"knownForTitle": [
+			"tt0084316",
+			"tt0405159",
+			"tt0068646",
+			"tt0087032"
+		]
+	},
+	"nm0809551": {
+		"nconst": "nm0809551",
+		"primaryName": "Paul Martin Smith",
+		"birthYear": "\\N",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"editor",
+			"editorial_department",
+			"actor"
+		],
+		"knownForTitle": [
+			"tt0159273",
+			"tt0373051",
+			"tt0120913",
+			"tt0120915"
+		]
+	},
+	"nm0852405": {
+		"nconst": "nm0852405",
+		"primaryName": "Gilbert Taylor",
+		"birthYear": "1914",
+		"deathYear": "2013",
+		"primaryProfession": [
+			"cinematographer",
+			"camera_department",
+			"director"
+		],
+		"knownForTitle": [
+			"tt0080745",
+			"tt0059646",
+			"tt0075005",
+			"tt0076759"
+		]
+	},
+	"nm0870660": {
+		"nconst": "nm0870660",
+		"primaryName": "Armitage Trail",
+		"birthYear": "1902",
+		"deathYear": "1930",
+		"primaryProfession": [
+			"writer"
+		],
+		"knownForTitle": [
+			"tt0023427",
+			"tt2066055",
+			"tt0023583",
+			"tt0036189"
+		]
+	},
+	"nm0932336": {
+		"nconst": "nm0932336",
+		"primaryName": "Gordon Willis",
+		"birthYear": "1931",
+		"deathYear": "2014",
+		"primaryProfession": [
+			"cinematographer",
+			"director",
+			"camera_department"
+		],
+		"knownForTitle": [
+			"tt0068646",
+			"tt0086637",
+			"tt0071562",
+			"tt0079522"
+		]
+	},
+	"nm1694619": {
+		"nconst": "nm1694619",
+		"primaryName": "John Ostrander",
+		"birthYear": "1949",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"writer",
+			"actor",
+			"miscellaneous"
+		],
+		"knownForTitle": [
+			"tt8050266",
+			"tt4759674",
+			"tt1641384",
+			"tt6334354"
+		]
+	},
+	"nm2176955": {
+		"nconst": "nm2176955",
+		"primaryName": "Jan Duursema",
+		"birthYear": "1954",
+		"deathYear": "\\N",
+		"primaryProfession": [
+			"writer",
+			"visual_effects"
+		],
+		"knownForTitle": [
+			"tt15908584",
+			"tt0477140",
+			"tt1529090"
+		]
+	}
+}
