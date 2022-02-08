@@ -2,7 +2,7 @@ import * as React from 'react';
 import Paper from '@mui/material/Paper';
 import InputBase from '@mui/material/InputBase';
 import Divider from '@mui/material/Divider';
-import { ChangeEvent, useRef } from 'react';
+import { ChangeEvent, useState } from 'react';
 import Button from '@mui/material/Button';
 
 interface SearchBarProps {
@@ -10,13 +10,16 @@ interface SearchBarProps {
   setValue: (input: string) => void;
 }
 export default function SearchBar({ value, setValue }: SearchBarProps) {
-  const valueRef = useRef<string>(value);
-  function onChangeHandler(input: ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) {
-    valueRef.current = input.currentTarget.value;
-  }
+  const [text, setText] = useState<string>(value);
 
+  function onChangeHandler(input: ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) {
+    setText(input.currentTarget.value);
+  }
+  React.useEffect(() => {
+    setText(value);
+  }, [value]);
   function searchHandler() {
-    setValue(valueRef.current);
+    setValue(text);
   }
   return (
     <Paper
@@ -38,7 +41,7 @@ export default function SearchBar({ value, setValue }: SearchBarProps) {
         inputProps={{
           'aria-label': 'search google maps',
         }}
-        defaultValue={value}
+        value={text}
         onChange={onChangeHandler}
         autoFocus
         type="text"

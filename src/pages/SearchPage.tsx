@@ -9,6 +9,9 @@ import useGetMoviesBySearchText from '../hooks/useGetMoviesBySearchText';
 
 export default function SearchPage() {
   const { value, setValue, data, error } = useGetMoviesBySearchText();
+  function resetHandler() {
+    setValue('');
+  }
   return (
     <Box
       sx={{
@@ -24,7 +27,7 @@ export default function SearchPage() {
           </Grid>
         </Grid>
       </Grid>
-      {data.length !== 0 ? <MovieList data={data} /> : null}
+      {data.length !== 0 ? <MovieList resetHandler={resetHandler} data={data} /> : null}
       {error ? <Alert severity="error">Oops, no Movies found. Please try again!</Alert> : null}
     </Box>
   );

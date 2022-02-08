@@ -13,8 +13,9 @@ import { MovieItemInterface } from '../../services/types';
 
 interface MovieListProps {
   data: MovieItemInterface[];
+  resetHandler: () => void;
 }
-export default function MovieList({ data }: MovieListProps) {
+export default function MovieList({ data, resetHandler }: MovieListProps) {
   const navigate = useNavigate();
   function itemHandler(movieID: string) {
     return () => navigate(resolvePath(`movie/${movieID}`));
@@ -62,7 +63,9 @@ export default function MovieList({ data }: MovieListProps) {
         }}
         mb={2}
       >
-        <Button variant="contained">Reset</Button>
+        <Button variant="contained" onClick={resetHandler}>
+          Reset
+        </Button>
       </Box>
     </Container>
   );
