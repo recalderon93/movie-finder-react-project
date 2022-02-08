@@ -1,4 +1,4 @@
-# <img align="left" width="80" height="80" src="./public/Group6.png">  Movie Finder SPA with Create React App 
+# <img align="left" width="80" height="80" src="./public/logo.png">  Movie Finder SPA with Create React App 
 ---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -21,19 +21,21 @@ Serve the `build` folder at [http://localhost:3000](http://localhost:3000) to vi
 
 - Fork the Github repository:
 ```bash
-	git fork https://github.com/recalderon93/movie-finder-react-project
+	git clone https://github.com/recalderon93/movie-finder-react-project
 ```
 
 - Navigate to the folder:
 ```bash
 	cd movie-finder-react-project
 ```
-
+- Install node_modules:
+```bash
+	yarn install
+```
 - Execute Build and Serve Script:
 ```bash
 	yarn serve-build
 ```
-
 ## Observation
 
 To complete the challenge the data set were Reduced to 10 movie Items, the data was parsed to JSON using NodeJS FS utilities { `createReadStream`,`createWriteStream`} and String methods. 
