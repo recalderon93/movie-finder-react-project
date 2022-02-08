@@ -1,6 +1,5 @@
-# <img align="left" width="80" height="80" src="./public/Group 6.png">  Movie Finder SPA with Create React App 
+# <img align="left" width="80" height="80" src="./public/Group6.png">  Movie Finder SPA with Create React App 
 ---
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Libraries Used
