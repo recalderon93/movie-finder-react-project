@@ -1,46 +1,39 @@
-# Getting Started with Create React App
-
+# <img align="left" width="80" height="80" src="./public/Group6.png">  Movie Finder SPA with Create React App 
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Libraries Used
+- [Material-UI](https://mui.com/)
+- [React Router](https://reactrouter.com/)
+- [Axios](https://axios-http.com/docs/intro)
+- [Serve](https://github.com/vercel/serve#readme)
 
 ## Available Scripts
 
-In the project directory, you can run:
+Extends the Create React App Available Scripts
 
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
+### `yarn serve-build`
 
 Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Serve the `build` folder at [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## How to Use?
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Fork the Github repository:
+```bash
+	git fork https://github.com/recalderon93/movie-finder-react-project
+```
 
-### `yarn eject`
+- Navigate to the folder:
+```bash
+	cd movie-finder-react-project
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Execute Build and Serve Script:
+```bash
+	yarn serve-build
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Observation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+To complete the challenge the data set were Reduced to 10 movie Items, the data was parsed to JSON using NodeJS FS utilities { `createReadStream`,`createWriteStream`} and String methods. 

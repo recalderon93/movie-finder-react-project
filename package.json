@@ -2,7 +2,12 @@
   "name": "movie-finder-react-project",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/icons-material": "^5.3.1",
+    "@mui/material": "^5.4.0",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
     "@testing-library/user-event": "^13.2.1",
@@ -10,8 +15,11 @@
     "@types/node": "^16.7.13",
     "@types/react": "^17.0.20",
     "@types/react-dom": "^17.0.9",
+    "@types/styled-components": "^5.1.22",
+    "axios": "^0.25.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-router-dom": "6",
     "react-scripts": "5.0.0",
     "typescript": "^4.4.2",
     "web-vitals": "^2.1.0"
@@ -35,8 +43,10 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "npx eslint \"src/**/*.tsx\" --fix",
+    "serve": "npx serve -s build -l 3000",
     "postinstall": "husky install",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "serve-build": "yarn build && yarn serve"
   },
   "browserslist": {
     "production": [
@@ -50,5 +60,4 @@
       "last 1 safari version"
     ]
   }
-  
 }

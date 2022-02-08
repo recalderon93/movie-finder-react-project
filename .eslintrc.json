@@ -5,7 +5,8 @@
     },
     "extends": [
         "plugin:react/recommended",
-        "airbnb"
+        "airbnb",
+        "plugin:@typescript-eslint/recommended"
     ],
     "parser": "@typescript-eslint/parser",
     "parserOptions": {
@@ -36,6 +37,10 @@
             "error",
             "windows"
         ],
+        "max-len": [
+            "error",
+            120
+        ],
         "react/jsx-filename-extension": [
             1,
             {
@@ -46,6 +51,16 @@
                 ]
             }
         ],
+        "react/jsx-props-no-spreading": [
+            0,
+            {
+                "html": "ignore",
+                "custom": "ignore",
+                "explicitSpread": "ignore"
+            }
+        ],
+        "react/jsx-no-bind": 0,
+        "object-curly-newline": "off",
         "import/extensions": [
             "error",
             "ignorePackages",
