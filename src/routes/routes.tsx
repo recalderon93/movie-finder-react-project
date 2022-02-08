@@ -5,8 +5,8 @@ import { ProfilePage, SearchPage } from '../pages';
 export default function AppRoutes() {
   return (
     <Routes>
-      <Route path="SearchPage" element={<SearchPage />} />
       <Route path="movie/:movieID" element={<ProfilePage />} />
+      <Route path="/" element={<SearchPage />} />
     </Routes>
   );
 }

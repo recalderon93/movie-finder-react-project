@@ -43,8 +43,10 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "npx eslint \"src/**/*.tsx\" --fix",
+    "serve": "npx serve -s build -l 3000",
     "postinstall": "husky install",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "serve-build": "yarn build && yarn serve"
   },
   "browserslist": {
     "production": [
