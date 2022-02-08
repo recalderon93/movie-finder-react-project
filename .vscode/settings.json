@@ -1,7 +1,7 @@
 {
-"editor.defaultFormatter": "esbenp.prettier-vscode",
-"editor.formatOnSave": true,
-"files.exclude": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "files.exclude": {
     "amplify/.config": true,
     "amplify/**/*-parameters.json": true,
     "amplify/**/amplify.state": true,
@@ -39,6 +39,10 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "cSpell.words": [
+    "webfonts",
     "ZIPPITY"
+  ],
+  "cSpell.ignoreWords": [
+    "nconst"
   ]
 }

@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const client = axios.create({
-  baseURL: './data',
+  baseURL: 'http://127.0.0.1:3000/data',
 });
 
 export default client;
