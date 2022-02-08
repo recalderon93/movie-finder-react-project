@@ -1,7 +1,7 @@
 import client from './client';
 import { ActorInfoInterface, ActorItemInterface } from './types';
 
-interface ActorListItem {
+export interface ActorListItem {
   nconst: string;
   ordering: string;
   category:

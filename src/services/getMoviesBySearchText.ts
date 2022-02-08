@@ -1,7 +1,7 @@
 import client from './client';
 import { MovieItemInterface } from './types';
 
-type GetMoviesBySearchTextResponse =
+export type GetMoviesBySearchTextResponse =
   | {
       error: false;
       data: Array<MovieItemInterface>;
